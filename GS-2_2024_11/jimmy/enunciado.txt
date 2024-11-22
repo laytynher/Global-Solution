@@ -1,5 +1,0 @@
-Em 12/fev/1998, a instituição exibida na imagem top.png planejava acrescentar um novo prédio ao seu campus. Naquela época, o projeto era chamado de "Informações Comuns".
-
-Você pode encontrar uma imagem de como seria o interior da instalação?
-
-Caso encontre, forneça o hash sha256 do arquivo.

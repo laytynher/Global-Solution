@@ -1,1 +1,0 @@
-Um Ransomware encriptou o codigo do desenvolver junior em sua empresa, era o primeiro teste dele na linguagem, decripte o conteudo e resolva o problema.
